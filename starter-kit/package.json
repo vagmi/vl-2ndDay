@@ -1,0 +1,8 @@
+{
+  "name": "promisesapp",
+  "version": "0.0.1",
+  "dependencies": {
+    "grunt": "*",
+    "grunt-http-server":"*"
+  }
+}
